@@ -1,6 +1,6 @@
-# CAL_PRO \\
+# CAL_PRO \ \ 
 
-## Diagram (Virtual Paradirm software) \
+## Diagram (Virtual Paradirm software) \ 
 ### Use case Diagram - Hendy 
 ### Class Diagram - Weiyang 
 ### Activity Diagram - Weiyang
@@ -17,11 +17,11 @@
 8. user must be able to edit and get acknowledge from users involves
 9. System must notfy user ever specific timing if user do not acknowledge
 10.System shall remove the user from the event 
-\
+\ 
 
 ## Non-Functionaal requirements
 1.
-\
+\ 
 
 ## Full Product Backlog
 1. Chat system
@@ -32,18 +32,18 @@
 6. Calender
 7. Android studio - Landing page
 8. 
-\
+\ 
 
-## Sprint Backlog \
+## Sprint Backlog \ 
 1.
-\
+\ 
 
-## Complete cycle \
+## Complete cycle \ 
 1.
-\
+\ 
 
-## Info \
+## Info \ 
 *  Diagram deadline : 11 Dec 2022
-\
+\ 
 
 
