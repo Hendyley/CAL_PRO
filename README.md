@@ -1,7 +1,12 @@
 # CAL_PRO
 
+## Functional requirement
+*
 
-Full Product Backlog
+## Non-Fuunctionaal requirement
+*
+
+## Full Product Backlog
 * Chat system
 * Notification
 * 
@@ -10,13 +15,9 @@ Full Product Backlog
 * 
 
 
-Sprint Backlog \
+## Sprint Backlog \
 *  
-* 
-* 
-* 
 
 
-Info \
+## Info \
 *  
-* 
