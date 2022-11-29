@@ -38,7 +38,7 @@
 1.
 \
 
-## Compleet cycle \
+## Complete cycle \
 1.
 \
 
