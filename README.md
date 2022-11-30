@@ -1,5 +1,4 @@
-# CAL_PRO 
-<br /><br />
+# CAL_PRO <br /><br />
 
 ## Diagram (Virtual Paradirm software) <br /> 
 ### Use case Diagram - Hendy 
@@ -8,6 +7,7 @@
 
 
  <br /> 
+ 
 ## Functional requirements
 1. User must be able to communicate with each other
 2. Messages from user shall be MCQ
@@ -22,11 +22,13 @@
 
 
 <br />
+
 ## Non-Functional requirements
 1.
 
 
 <br />
+
 ## Full Product Backlog
 1. Chat system
 2. Notification
@@ -39,16 +41,19 @@
 
 
 <br />
+
 ## Sprint Backlog 
 1.
 
 
 <br />
+
 ## Complete cycle 
 1.
 
 
 <br />
+
 ## Info 
 *  Diagram deadline : 11 Dec 2022
 <br />
