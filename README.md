@@ -19,7 +19,7 @@
 10.System shall remove the user from the event 
 <br />
 
-## Non-Functionaal requirements
+## Non-Functional requirements
 1.
 <br />
 
