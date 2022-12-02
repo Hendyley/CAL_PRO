@@ -18,7 +18,7 @@
 7. User must be able to view the events in list or calender form
 8. user must be able to edit and get acknowledge from users involves
 9. System must notfy user ever specific timing if user do not acknowledge
-10.System shall remove the user from the event 
+10. System shall remove the user from the event 
 
 
 <br />
