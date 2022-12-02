@@ -2,6 +2,7 @@
 
 ## Diagram (Virtual Paradirm software) <br /> 
 ### Use case Diagram - Hendy 
+![use_case_diagram](https://github.com/Hendyley/CAL_PRO/blob/master/Diagram/Use%20Case%20Diagram_CAL_PRO.jpg)
 ### Class Diagram - Weiyang 
 ### Activity Diagram - Weiyang
 
