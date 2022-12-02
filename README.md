@@ -37,7 +37,7 @@
 5. Message
 6. Calender
 7. Android studio - Landing page
-8. 
+8. Store events in database
 
 
 <br />
@@ -56,6 +56,7 @@
 
 ## Info 
 *  Diagram deadline : 11 Dec 2022
+*  Database : Firebase
 <br />
 
 
