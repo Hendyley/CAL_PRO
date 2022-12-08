@@ -56,7 +56,6 @@
 <br />
 
 ## Info 
-*  Diagram deadline : 11 Dec 2022
 *  Database : Firebase
 <br />
 
