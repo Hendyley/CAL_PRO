@@ -32,18 +32,14 @@
 <br />
 
 ## Full Product Backlog
-1. Chat system
-2. Notification
-3. Event Creation
-4. Timing
-5. Message
-6. Calendar
-7. Android studio - home page (list)
-8. Store events in database
-9. Android studio - event page
-10. Android studio - home page (calendar)
-11. Android studio - chat page
-12. User
+1. Message
+2. Calendar
+3. Android studio - home page (list)
+4. Store events in database
+5. Android studio - event page
+6. Android studio - home page (calendar)
+7. Android studio - chat page
+8. User
 
 
 <br />
