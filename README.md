@@ -37,15 +37,22 @@
 3. Event Creation
 4. Timing
 5. Message
-6. Calender
-7. Android studio - Landing page
+6. Calendar
+7. Android studio - home page (list)
 8. Store events in database
+9. Android studio - event page
+10. Android studio - home page (calendar)
+11. Android studio - chat page
+12. User
 
 
 <br />
 
 ## Sprint Backlog 
-1.
+1. Chat system - Hendy
+2. Notification - Hendy
+3. Event Creation - Wy
+4. Timing - Wy
 
 
 <br />
@@ -57,7 +64,30 @@
 <br />
 
 ## Info 
-*  Database : Firebase
+* Database : Firebase
+
+![Scrum Sprint Cycle in 8 Steps](https://www.visual-paradigm.com/servlet/editor-content/scrum/scrum-sprint-cycle-in-8-steps/sites/7/2018/12/scrum-sprint-cycle.png)
+Link : https://www.visual-paradigm.com/scrum/scrum-sprint-cycle-in-8-steps/ <br />
+
+Sprint cycle: 1 week 2 items <br / >
+Sprint Planning Meeting: 21 Dec 2022 <br />
+1. team self-identifies elements of the process that did or did not work during the sprint, along with potential solutions
+2. plan for next sprint cycles
+3. demonstrate to them the working software
+4. Product backlog refinement
+
+
+Scrum: 16 Dec, 18 Dec, 20 Dec <br />
+Scrum:
+1. what have you done
+2. what do you plan to do next
+3. what problem did you encounter
+3. you can ask questions related to impediment or problems that you can’t solve
+
+
+
+
+
 <br />
 
 
