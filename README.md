@@ -4,8 +4,9 @@
 ### Use case Diagram - Hendy 
 ![use_case_diagram](https://github.com/Hendyley/CAL_PRO/blob/master/Diagram/Use%20Case%20Diagram_CAL_PRO.jpg)
 ### Class Diagram - Weiyang 
+![class_diagram](https://github.com/Hendyley/CAL_PRO/blob/master/Diagram/Class%20Diagram_CAL_PRO.jpg)
 ### Activity Diagram - Weiyang
-
+![activity_diagram](https://github.com/Hendyley/CAL_PRO/blob/master/Diagram/Activity%20Diagram_CAL_PRO.jpg)
 
  <br /> 
  
