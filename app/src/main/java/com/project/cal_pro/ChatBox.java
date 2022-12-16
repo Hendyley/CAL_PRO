@@ -1,15 +1,40 @@
 package com.project.cal_pro;
 
-public class ChatBox {
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+public class ChatBox extends AppCompatActivity {
+
+    private String TAG = this.getClass().getName()+ " ";
 
     private int chat_id;
     private String chat_txt;
     private String chat_history;
 
-    public void sendMsg(){
-
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.calpro_chatbox);
     }
 
+    public ChatBox(){
+        System.out.println(this.TAG+"Created");
+    }
+
+    public void sendMsg(){
+
+        EditText InputCB = (EditText) findViewById(R.id.chatbox_input);
+        TextView MainCB = (TextView) findViewById(R.id.Chatbox);
+        String x = MainCB.getText().toString();
+        System.out.println(TAG+" say text "+x+InputCB.getText());
+        MainCB.setText(x+" "+InputCB.getText());
+        InputCB.setText("");
+
+    }
     public void deleteMsg(){
 
     }
