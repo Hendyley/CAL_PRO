@@ -2,13 +2,13 @@ package com.project.cal_pro;
 
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.FragmentActivity;
 
-public class ChatBox extends AppCompatActivity {
+public class ChatBox extends MainActivity{
 
     private String TAG = this.getClass().getName()+ " ";
 
@@ -16,10 +16,6 @@ public class ChatBox extends AppCompatActivity {
     private String chat_txt;
     private String chat_history;
 
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.calpro_chatbox);
-    }
 
     public ChatBox(){
         System.out.println(this.TAG+"Created");
@@ -27,11 +23,11 @@ public class ChatBox extends AppCompatActivity {
 
     public void sendMsg(){
 
-        EditText InputCB = (EditText) findViewById(R.id.chatbox_input);
-        TextView MainCB = (TextView) findViewById(R.id.Chatbox);
-        String x = MainCB.getText().toString();
-        System.out.println(TAG+" say text "+x+InputCB.getText());
-        MainCB.setText(x+" "+InputCB.getText());
+        StringBuilder temps = new StringBuilder();
+        temps.append( MainCB.getText().toString() );
+        temps.append("\n"+InputCB.getText());
+        System.out.println(TAG+temps.toString());
+        MainCB.setText(temps.toString());
         InputCB.setText("");
 
     }
