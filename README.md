@@ -34,21 +34,24 @@
 ## Full Product Backlog
 1. Message
 2. Calendar
-3. Android studio - home page (list)
+
 4. Store events in database
 5. Android studio - event page
-6. Android studio - home page (calendar)
 7. Android studio - chat page
-8. User
+
+9. Chat system 
+10. Notification 
+11. Event Creation 
+12. Timing 
 
 
 <br />
 
 ## Sprint Backlog 
-1. Chat system - Hendy
-2. Notification - Hendy
-3. Event Creation - Wy
-4. Timing - Wy
+6. Android studio - home page (calendar) -- Hendy
+8. User -- WY
+3. Android studio - home page (list) -- WY
+
 
 
 <br />
