@@ -69,14 +69,14 @@
 Link : https://www.visual-paradigm.com/scrum/scrum-sprint-cycle-in-8-steps/ <br />
 
 Sprint cycle: 1 week 2 items <br / >
-Sprint Planning Meeting: 21 Dec 2022 <br />
+Sprint Planning Meeting: 21 Jan 2022 <br />
 1. team self-identifies elements of the process that did or did not work during the sprint, along with potential solutions
 2. plan for next sprint cycles
 3. demonstrate to them the working software
 4. Product backlog refinement
 
 
-Scrum: 16 Dec, 18 Dec, 20 Dec <br />
+Scrum: 1 Jan, 8 Jan, 15 Jan <br />
 Scrum:
 1. what have you done
 2. what do you plan to do next
